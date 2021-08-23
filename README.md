@@ -1,4 +1,4 @@
-A script for checking arbitrage opportunities across various exchanges and tokens.
+Check for potential [arbitrage](https://en.wikipedia.org/wiki/Arbitrage) opportunities by calculating differences in price on different exchanges.
 
 Add your keys to the `.env` file
 
@@ -9,3 +9,5 @@ python3 arbitrage.py
 ```
 
 Based on the [Coinmarketcap](https://coinmarketcap.com) Python script API example [on this page.](https://coinmarketcap.com/api/documentation/v1/#section/Introduction)
+
+Script is currently in beta development.
