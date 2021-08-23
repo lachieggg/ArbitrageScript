@@ -1,4 +1,4 @@
-Check for potential [arbitrage](https://en.wikipedia.org/wiki/Arbitrage) opportunities by calculating differences in price on different exchanges.
+Check for potential [arbitrage](https://en.wikipedia.org/wiki/Arbitrage) opportunities by calculating differences in price on exchanges.
 
 Add your keys to the `.env` file
 
